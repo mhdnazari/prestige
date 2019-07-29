@@ -16,7 +16,7 @@ pip install -e . -U
 
 ### Usage:
 
-```python
+```bash
 cpy <fiel1> <fiel2>  ... [-v | --vervose]
 
 cpy -r <directory1> <directory2>  ... [-v | --vervose]
@@ -27,7 +27,7 @@ cpy -r <directory1> <directory2> <file1> <file2>  ... [-v | --vervose]
 
 ### cpy -h
 
-```python
+```bash
 usage: cp [-h] [-r] [-v] [N [N ...]]
 
 positional arguments:
